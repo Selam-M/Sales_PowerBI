@@ -1,13 +1,16 @@
 📊 Dashboard Highlights
+
 🔹 Page 1 – Executive Overview
 Total Retail Sales (card)
 Total Warehouse Sales (card)
 Sum of Retail Sales by Item Type (bar chart)
 Sum of Retail Sales by Month (line or area chart)
+
 🔹 Page 2 – Item Performance
 Total Retail Sales by Item Type (stacked column or bar)
 Count of Item Types by Month (line/bar chart)
 Drilldowns to explore top-performing items or product mix
+
 🔹 Page 3 – Trend Analysis
 Retail Sales Time Series to visualize peaks and drops
 Month-wise Item Sales Volume comparison
