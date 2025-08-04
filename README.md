@@ -17,6 +17,7 @@ Month-wise Item Sales Volume comparison
 Interactive slicers (e.g. by Year, Item Type)
 
 ⚙️ Tools & Skills Used
+
 Power BI Desktop
 Power Query for cleaning & shaping data
 DAX Measures for total sales, counts, and time-based metrics
@@ -24,10 +25,12 @@ Custom Dark Theme for a sleek professional finish
 Data storytelling with clear KPIs, visuals, and slicers
 
 📁 Dataset Columns (sample)
+
 Item Type, Order Date, Retail Sales, Warehouse Sales
 Month, Region, Quantity, Category, Channel, etc.
 
 🎯 Purpose of the Project
+
 This dashboard demonstrates:
 Ability to work with business data from scratch
 Strong data visualization and dashboard layout skills
